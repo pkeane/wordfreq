@@ -1,1 +1,5 @@
 this perl script takes a filename and prints a word frequency list
+
+for example to get word frequency in complete works of shakespeare:
+
+./freq.pl shaks12.txt
